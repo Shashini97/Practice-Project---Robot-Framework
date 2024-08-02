@@ -3,7 +3,7 @@ Library    SeleniumLibrary
 
 *** Variables ***
 ${browser}    chrome
-${url}    https://demo.nopcommerce.com
+${url}    https://demo.nopcommerce.comm
 
 *** Test Cases ***
 LoginTest
